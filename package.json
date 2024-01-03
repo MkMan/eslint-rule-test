@@ -1,0 +1,24 @@
+{
+  "name": "eslint-rule-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "boom": "eslint ./src/**"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@atlaskit/drawer": "^7.6.5",
+    "@atlaskit/eslint-plugin-design-system": "^8.15.3",
+    "@types/react": "^18.2.46",
+    "@typescript-eslint/eslint-plugin": "^6.17.0",
+    "@typescript-eslint/parser": "^6.17.0",
+    "eslint": "^8.56.0",
+    "eslint-plugin-react": "^7.33.2"
+  },
+  "dependencies": {
+    "react": "^16.14.0"
+  }
+}
